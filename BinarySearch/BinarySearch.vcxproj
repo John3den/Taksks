@@ -19,14 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinarySearch.c" />
-    <ClCompile Include="BubbleSort.c" />
+    <ClCompile Include="binsrch.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e81d0728-a0f3-400d-95d0-17a9f55e8852}</ProjectGuid>
-    <RootNamespace>Tasks</RootNamespace>
+    <ProjectGuid>{da2a4ea0-5952-4dab-89af-e0e61470ad1a}</ProjectGuid>
+    <RootNamespace>BinarySearch</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinarySearch.c">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="BubbleSort.c">
+    <ClCompile Include="binsrch.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
