@@ -16,9 +16,12 @@
     <Filter Include="source">
       <UniqueIdentifier>{0ddefd88-a6b3-4a8f-b3cf-e04bc986a2d2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{8c7508b3-2fc2-41a4-99a3-80337330a27b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source code\main.c">
+    <ClCompile Include="source code\binsrch.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
